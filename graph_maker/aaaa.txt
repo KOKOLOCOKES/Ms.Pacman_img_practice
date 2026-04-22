@@ -1,0 +1,6 @@
+{"loss":100, "reward":10000, "steps":100000}
+{"loss":100, "reward":10000, "steps":100000}
+{"loss":100, "reward":10000, "steps":100000}
+{"loss":100, "reward":10000, "steps":100000}
+{"loss":100, "reward":10000, "steps":100000}
+{"loss":100, "reward":10000, "steps":100000}
